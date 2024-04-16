@@ -1,2 +1,4 @@
-# janzmarz.github.io
-website
+<!DOCTYPE html>
+<head>
+  Personal project
+</head>
